@@ -9,7 +9,7 @@
         "projects",
         "facebook",  
         "instagram", 
-        "linkedin" 
+        "github" 
     ]);
 </script>
 
@@ -31,6 +31,7 @@
             <div class="flex justify-center gap-4 mb-2">
                 <a v-if="facebook" :href="facebook" target="_blank" class="text-blue-600 hover:text-blue-800 text-xs font-semibold">Facebook</a>
                 <a v-if="instagram" :href="instagram" target="_blank" class="text-pink-600 hover:text-pink-800 text-xs font-semibold">Instagram</a>
+                <a v-if="github" :href="github" target="_blank" class="text-green-600 hover:text-green-800 text-xs font-semibold">Github</a>
             </div>
         </div>
 

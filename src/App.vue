@@ -15,6 +15,7 @@
       projects="2"
       facebook="https://www.facebook.com/kanokpon.suebyam.908/"
       instagram="https://www.instagram.com/k_nodpok/"
+      github="https://github.com/kanod3049"
     />
 
     <ProfileCard 
@@ -22,11 +23,12 @@
       profileimg="/profile2.png" 
       name="Thanasorn Dusadeeroj" 
       subheading="Student, 20, BKK" 
-      followers="1.2k" 
-      following="300" 
-      projects="5"
+      followers="634" 
+      following="1,915" 
+      projects="3"
       facebook="https://www.facebook.com/thanasorn.dujsadeeroj.7"
-      instagram="#"
+      instagram="https://www.instagram.com/savaki_tns/"
+      github="https://github.com/vavaza09"
     />
 
     <ProfileCard 
@@ -34,11 +36,12 @@
       profileimg="/profile3.jpg" 
       name="Siriyakon Sangkaew" 
       subheading="Student, 20, BKK" 
-      followers="5.8k" 
-      following="1.1k" 
-      projects="24"
-      facebook="https://www.facebook.com/thanasorn.dujsadeeroj.7"
-      instagram="#"
+      followers="539" 
+      following="851" 
+      projects="3"
+      facebook="https://www.facebook.com/tan.siriyagon"
+      instagram="https://www.instagram.com/siri_yx/"
+      github="https://github.com/SvechaZ"
     />
 
   </div>
